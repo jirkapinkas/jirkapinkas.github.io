@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="VisuGPX">
+<trk>
+<name>202004261852</name>
+<trkseg>
+<trkpt lat="48.923961" lon="2.2429725">
+<ele>79.4000015258789</ele>
+<time>2020-04-26T18:51:53+0200</time>
+</trkpt>
+<trkpt lat="48.9239645" lon="2.2429563">
+<ele>79.4000015258789</ele>
+<time>2020-04-26T18:51:54+0200</time>
+</trkpt>
+<trkpt lat="48.92420495369917" lon="2.2428985933191217">
+<ele>111.93325913511217</ele>
+<time>2020-04-26T18:52:05+0200</time>
+</trkpt>
+<trkpt lat="48.923898932584166" lon="2.2430808466898484">
+<ele>148.01298990566283</ele>
+<time>2020-04-26T18:52:06+0200</time>
+</trkpt>
+<trkpt lat="48.92400083427662" lon="2.2430852528955896">
+<ele>121.91304435022175</ele>
+<time>2020-04-26T18:52:07+0200</time>
+</trkpt>
+<trkpt lat="48.92399768940094" lon="2.2430806880986855">
+<ele>120.49850980192423</ele>
+<time>2020-04-26T18:52:08+0200</time>
+</trkpt>
+<trkpt lat="48.924026158488864" lon="2.243267610463426">
+<ele>101.87122778501362</ele>
+<time>2020-04-26T18:52:09+0200</time>
+</trkpt>
+<trkpt lat="48.9240262922335" lon="2.2432464778349868">
+<ele>95.36784078460187</ele>
+<time>2020-04-26T18:52:10+0200</time>
+</trkpt>
+<trkpt lat="48.92402979815641" lon="2.2432095524942977">
+<ele>93.65001397486776</ele>
+<time>2020-04-26T18:52:11+0200</time>
+</trkpt>
+<trkpt lat="48.92402925601042" lon="2.2431906387551326">
+<ele>92.6855573952198</ele>
+<time>2020-04-26T18:52:12+0200</time>
+</trkpt>
+<trkpt lat="48.92404747083591" lon="2.2431565758750986">
+<ele>89.34971796814352</ele>
+<time>2020-04-26T18:52:13+0200</time>
+</trkpt>
+<trkpt lat="48.9239563" lon="2.2429476">
+<ele>78.9000015258789</ele>
+<time>2020-04-26T18:52:14+0200</time>
+</trkpt>
+<trkpt lat="48.9239563" lon="2.2429476">
+<ele>78.9000015258789</ele>
+<time>2020-04-26T18:52:14+0200</time>
+</trkpt>
+<trkpt lat="48.9239563" lon="2.2429476">
+<ele>78.9000015258789</ele>
+<time>2020-04-26T18:52:15+0200</time>
+</trkpt>
+<trkpt lat="48.9239563" lon="2.2429476">
+<ele>78.9000015258789</ele>
+<time>2020-04-26T18:52:16+0200</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
