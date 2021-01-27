@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rsm:CrossIndustryInvoice xmlns:a="urn:un:unece:uncefact:data:standard:QualifiedDataType:100"
+xmlns:rsm="urn:un:unece:uncefact:data:standard:CrossIndustryInvoice:100"
+xmlns:qdt="urn:un:unece:uncefact:data:standard:QualifiedDataType:10"
+xmlns:ram="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:100"
+xmlns:xs="http://www.w3.org/2001/XMLSchema"
+xmlns:udt="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:100">
+<rsm:ExchangedDocumentContext>
+<ram:GuidelineSpecifiedDocumentContextParameter>
+<ram:ID>urn:cen.eu:en16931:2017#compliant#urn:xoev-de:kosit:standard:xrechnung_2.1</ram:ID>
+</ram:GuidelineSpecifiedDocumentContextParameter>
+</rsm:ExchangedDocumentContext>
+<rsm:ExchangedDocument>
+<ram:ID>505538</ram:ID>
+<ram:TypeCode>380</ram:TypeCode>
+<ram:IssueDateTime>
+<udt:DateTimeString format="102">20210121</udt:DateTimeString>
+</ram:IssueDateTime>
+</rsm:ExchangedDocument>
+<rsm:SupplyChainTradeTransaction>
+<ram:IncludedSupplyChainTradeLineItem>
+<ram:AssociatedDocumentLineDocument>
+<ram:LineID>200</ram:LineID>
+</ram:AssociatedDocumentLineDocument>
+<ram:SpecifiedTradeProduct>
+<ram:Name>
+.
+DHS Health Protection System
+ 
+Wartung von 43 Hygienebeh&#228;lter Basic Line &#224; EUR 0,63 pro Woche
+</ram:Name>
+</ram:SpecifiedTradeProduct>
+<ram:SpecifiedLineTradeAgreement>
+<ram:NetPriceProductTradePrice>
+<ram:ChargeAmount>108.3600</ram:ChargeAmount>
+</ram:NetPriceProductTradePrice>
+</ram:SpecifiedLineTradeAgreement>
+<ram:SpecifiedLineTradeDelivery>
+<ram:BilledQuantity unitCode="C62">1.0000</ram:BilledQuantity>
+</ram:SpecifiedLineTradeDelivery>
+<ram:SpecifiedLineTradeSettlement>
+<ram:ApplicableTradeTax>
+<ram:TypeCode>VAT</ram:TypeCode>
+<ram:CategoryCode>S</ram:CategoryCode>
+<ram:RateApplicablePercent>16.00</ram:RateApplicablePercent>
+</ram:ApplicableTradeTax>
+
+<ram:SpecifiedTradeSettlementLineMonetarySummation>
+<ram:LineTotalAmount>108.36</ram:LineTotalAmount>
+</ram:SpecifiedTradeSettlementLineMonetarySummation>
+</ram:SpecifiedLineTradeSettlement>
+</ram:IncludedSupplyChainTradeLineItem>
+<ram:ApplicableHeaderTradeAgreement>
+
+<ram:BuyerReference>991-13947-20</ram:BuyerReference>
+<ram:SellerTradeParty>
+<ram:Name>DHS Deutscher  Hygiene Service GmbH  Co</ram:Name>
+<ram:DefinedTradeContact>
+<ram:PersonName>Fr. Graf</ram:PersonName>
+<ram:TelephoneUniversalCommunication>
+<ram:CompleteNumber>0821790 15-190</ram:CompleteNumber>
+</ram:TelephoneUniversalCommunication>
+<ram:EmailURIUniversalCommunication>
+<ram:URIID>info@gesa.de</ram:URIID>
+</ram:EmailURIUniversalCommunication>
+</ram:DefinedTradeContact>
+<ram:PostalTradeAddress>
+<ram:PostcodeCode>86156</ram:PostcodeCode>
+<ram:LineOne>Gubener Str. 32</ram:LineOne>
+<ram:LineTwo/>
+<ram:CityName>Augsburg</ram:CityName>
+<ram:CountryID>DE</ram:CountryID>
+</ram:PostalTradeAddress>
+<ram:SpecifiedTaxRegistration>
+<ram:ID schemeID="VA">DE194219557</ram:ID>
+</ram:SpecifiedTaxRegistration>
+</ram:SellerTradeParty>
+<ram:BuyerTradeParty>
+<ram:ID>171942</ram:ID>
+<ram:Name>Bundeswehr-Dienstleistungszentrum M&#252;nchen ZentrRechBearb.</ram:Name>
+<ram:DefinedTradeContact>
+<ram:PersonName>Fr. Wittig/Fr. Bauer 08122-945-2790</ram:PersonName>
+<ram:TelephoneUniversalCommunication>
+</ram:TelephoneUniversalCommunication>
+<ram:EmailURIUniversalCommunication>
+<ram:URIID>xrechnung@portal.bund.de</ram:URIID>
+</ram:EmailURIUniversalCommunication>
+</ram:DefinedTradeContact>
+<ram:PostalTradeAddress>
+<ram:PostcodeCode>80637</ram:PostcodeCode>
+<ram:LineOne>Dachauer Str. 128</ram:LineOne>
+<ram:CityName>M&#252;nchen</ram:CityName>
+<ram:CountryID>DE</ram:CountryID>
+</ram:PostalTradeAddress>
+</ram:BuyerTradeParty>
+<ram:BuyerOrderReferencedDocument>
+<ram:IssuerAssignedID>4600025973</ram:IssuerAssignedID>
+</ram:BuyerOrderReferencedDocument>
+</ram:ApplicableHeaderTradeAgreement>
+<ram:ApplicableHeaderTradeDelivery/>
+<ram:ApplicableHeaderTradeSettlement>
+<ram:TaxCurrencyCode>EUR</ram:TaxCurrencyCode>
+<ram:InvoiceCurrencyCode>EUR</ram:InvoiceCurrencyCode>
+<ram:SpecifiedTradeSettlementPaymentMeans>
+<ram:TypeCode>30</ram:TypeCode>
+<ram:PayeePartyCreditorFinancialAccount>
+<ram:IBANID>DE14720200700615702030</ram:IBANID>
+<ram:AccountName>DHS Deutscher  Hygiene Service GmbH  Co</ram:AccountName>
+</ram:PayeePartyCreditorFinancialAccount>
+<ram:PayeeSpecifiedCreditorFinancialInstitution>
+<ram:BICID>HYVEDEMM408</ram:BICID>
+</ram:PayeeSpecifiedCreditorFinancialInstitution>
+</ram:SpecifiedTradeSettlementPaymentMeans>
+<ram:ApplicableTradeTax>
+<ram:CalculatedAmount>17.34</ram:CalculatedAmount>
+<ram:TypeCode>VAT</ram:TypeCode>
+<ram:BasisAmount>108.36</ram:BasisAmount>
+<ram:CategoryCode>S</ram:CategoryCode>
+<ram:RateApplicablePercent>16.00</ram:RateApplicablePercent>
+</ram:ApplicableTradeTax>
+<ram:BillingSpecifiedPeriod>
+<ram:StartDateTime>
+<udt:DateTimeString format="102">20201101</udt:DateTimeString>
+</ram:StartDateTime>
+<ram:EndDateTime>
+<udt:DateTimeString format="102">20201130</udt:DateTimeString>
+</ram:EndDateTime>
+</ram:BillingSpecifiedPeriod>
+<ram:SpecifiedTradePaymentTerms>
+<ram:Description>30 Tage netto</ram:Description>
+<ram:DueDateDateTime>
+<udt:DateTimeString format="102">20210220</udt:DateTimeString>
+</ram:DueDateDateTime>
+</ram:SpecifiedTradePaymentTerms>
+<ram:SpecifiedTradeSettlementHeaderMonetarySummation>
+<ram:LineTotalAmount>108.36</ram:LineTotalAmount>
+<ram:TaxBasisTotalAmount>108.36</ram:TaxBasisTotalAmount>
+<ram:TaxTotalAmount currencyID="EUR">17.34</ram:TaxTotalAmount>
+<ram:GrandTotalAmount>125.70</ram:GrandTotalAmount>
+<ram:DuePayableAmount>125.70</ram:DuePayableAmount>
+</ram:SpecifiedTradeSettlementHeaderMonetarySummation>
+</ram:ApplicableHeaderTradeSettlement>
+</rsm:SupplyChainTradeTransaction>
+</rsm:CrossIndustryInvoice>
