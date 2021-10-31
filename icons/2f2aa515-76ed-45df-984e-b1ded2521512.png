@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: Maven Jar Plugin 3.2.0
+Build-Jdk-Spec: 17
+Class-Path: lib/is-sdk-platform-jre-0.7.0.jar lib/is-sdk-common-0.9.0.ja
+ r lib/commons-codec-1.13.jar lib/log4j-api-2.6.2.jar lib/log4j-core-2.6
+ .2.jar lib/snowflake-1.0.5.jar lib/json-20201115.jar
+Automatic-Module-Name: com.instantshare.sdk
+
