@@ -1,0 +1,42 @@
+
+package gmap;
+
+import javax.swing.JFrame;
+import com.teamdev.jxmaps.swing.MapView;
+import com.teamdev.jxmaps.swing.*;
+
+
+
+
+public class GMap extends  MapView{
+    
+  public GMap (String nName ){
+      
+      JFrame frame = new JFrame(nName);
+      setOnMapReadyHandler(new MapReadyHandler() ){
+      
+      @override
+        public void MapReadyHandler (MapStatus status) {
+     
+          if (status == MapStatus.MAP_STATUS_OK){
+          
+              map = getMap();
+        Hlapoptions mapoptions - new Mapoptions();
+        HapTypeControloptions controloptions new MapTypeControl0ptions();
+        mapoptions.setMapTypeControloptions(control0ptions);
+        map.setOptions(mapOptions);
+        map.setCenter(new Lating());# link of location
+        map.setzoom(11.e);
+        Harker mark - new Marker (map);
+        mark.setPosition(map.getCenter());
+          }
+      
+      }
+  
+  
+  } };
+    public static void main(String[] args) {
+      
+    }
+    
+}

@@ -1,0 +1,22 @@
+gg.setVisible(false)
+while true do
+    if gg.isVisible(true) then
+        gg.toast("Начало")
+        a = os.clock()
+        break
+    end
+end
+
+gg.setVisible(false)
+while true do
+    gg.toast(os.clock() - a)
+    gg.sleep(110)
+    if gg.isVisible(true) then
+        gg.toast("Конец")
+        v = os.clock() - a
+        b = v * 1000
+        print("seconds:", math.floor(v))
+        print("miliseconds:", math.floor(b))
+    os.exit()
+    end
+end
